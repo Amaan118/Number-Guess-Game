@@ -1,0 +1,20 @@
+
+Date : Tue Jun 29 10:54:11 2021
+Number to Guess : 20
+Attempts Taken : 3
+
+Date : Tue Jun 29 10:54:49 2021
+Number to Guess : 19 
+Attempts Taken : 5
+
+Date : Tue Jun 29 10:55:24 2021
+Number to Guess : 9 
+Attempts Taken : 8
+
+Date : Tue Jun 29 10:56:11 2021
+Number to Guess : 63 
+Attempts Taken : 7
+
+Date : Tue Jun 29 10:59:48 2021
+Number to Guess : 18 
+Attempts Taken : 4
